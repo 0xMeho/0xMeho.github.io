@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Blue Team Adventures"
-title_separator          : "0xMeho | Ali Meho | Cyber Security Blog | Digital Forensics & Incident Response Blog"
-subtitle                 : "0xMeho" # site tagline that appears below site title in masthead
-name                     : "Ali Meho"
+title_separator          : "0xElshazly | Mohamed Ayman Elshazly | DFIR Blog | Digital Forensics & Incident Response Blog | Digital Forensics | Incident Response | Blue Team Adventures"
+subtitle                 : "0xElshazly" # site tagline that appears below site title in masthead
+name                     : "Mohamed Ayman Elshazly"
 description              : "Threat Analyst & Incident Response - Digital Forensics - Malware Analysis - Blue Team"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -99,6 +99,7 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
+
 
 # Site Author
 author:
